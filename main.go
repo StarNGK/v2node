@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/starngk/v2node/cmd"
+	"github.com/StarNGK/v2node/cmd"
 )
 
 func main() {
