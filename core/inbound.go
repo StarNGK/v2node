@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	panel "github.com/starngk/v2node/api/v2board"
+	panel "github.com/StarNGK/v2node/api/v2board"
 	"github.com/xtls/xray-core/common/net"
 	"github.com/xtls/xray-core/core"
 	"github.com/xtls/xray-core/features/inbound"
