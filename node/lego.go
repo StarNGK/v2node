@@ -23,7 +23,7 @@ import (
 	"github.com/go-acme/lego/v4/certcrypto"
 	"github.com/go-acme/lego/v4/lego"
 	panel "github.com/StarNGK/v2node/api/v2board"
-	"github.com/starngk/v2node/common/file"
+	"github.com/StarNGK/v2node/common/file"
 )
 
 type Lego struct {
