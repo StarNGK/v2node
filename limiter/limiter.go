@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/juju/ratelimit"
-	panel "github.com/starngk/v2node/api/v2board"
-	"github.com/starngk/v2node/common/format"
+	panel "github.com/StarNGK/v2node/api/v2board"
+	"github.com/StarNGK/v2node/common/format"
 )
 
 var limitLock sync.RWMutex
