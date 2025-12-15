@@ -10,10 +10,10 @@ import (
 
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
-	"github.com/starngk/v2node/conf"
-	"github.com/starngk/v2node/core"
-	"github.com/starngk/v2node/limiter"
-	"github.com/starngk/v2node/node"
+	"github.com/StarNGK/v2node/conf"
+	"github.com/StarNGK/v2node/core"
+	"github.com/StarNGK/v2node/limiter"
+	"github.com/StarNGK/v2node/node"
 )
 
 var (
