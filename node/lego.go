@@ -22,7 +22,7 @@ import (
 
 	"github.com/go-acme/lego/v4/certcrypto"
 	"github.com/go-acme/lego/v4/lego"
-	panel "github.com/wyx2685/v2node/api/v2board"
+	panel "github.com/StarNGK/v2node/api/v2board"
 	"github.com/starngk/v2node/common/file"
 )
 
