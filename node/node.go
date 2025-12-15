@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	log "github.com/sirupsen/logrus"
-	panel "github.com/starngk/v2node/api/v2board"
-	"github.com/starngk/v2node/conf"
-	"github.com/starngk/v2node/core"
+	panel "github.com/StarNGK/v2node/api/v2board"
+	"github.com/StarNGK/v2node/conf"
+	"github.com/StarNGK/v2node/core"
 )
 
 type Node struct {
