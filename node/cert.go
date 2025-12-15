@@ -12,7 +12,7 @@ import (
 	"time"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/starngk/v2node/common/file"
+	"github.com/StarNGK/v2node/common/file"
 )
 
 func (c *Controller) renewCertTask() error {
